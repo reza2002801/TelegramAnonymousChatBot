@@ -1,0 +1,35 @@
+€•ƒ      ]”(}”(Œid”JÄ_À	Œmessages”]”Œ
+telebot.types”ŒMessage”“”)”}”(Œcontent_type”Œtext”Œid”MíŒ
+message_id”MíŒ	from_user”hŒUser”“”)”}”(hJÄ_À	Œis_bot”‰Œ
+first_name”Œ
+Mohammadjavad”Œusername”ŒM_J_Bahmani”Œ	last_name”NŒ
+language_code”Œen”Œcan_join_groups”NŒcan_read_all_group_messages”NŒsupports_inline_queries”NubŒdate”JÛ•MaŒchat”hŒChat”“”)”}”(hJÄ_À	Œtype”Œprivate”Œtitle”NhŒM_J_Bahmani”hŒ
+Mohammadjavad”hNŒphoto”NŒbio”NŒdescription”NŒinvite_link”NŒpinned_message”NŒpermissions”NŒslow_mode_delay”NŒmessage_auto_delete_time”NŒsticker_set_name”NŒcan_set_sticker_set”NŒlinked_chat_id”NŒlocation”NubŒsender_chat”NŒforward_from”NŒforward_from_chat”NŒforward_from_message_id”NŒforward_signature”NŒforward_sender_name”NŒforward_date”NŒreply_to_message”NŒvia_bot”NŒ	edit_date”NŒmedia_group_id”NŒauthor_signature”NhŒ-Ø³Ù„Ø§Ù… Ù‡Ù„ÛŒØ§ Ù…Ø­Ù…ÙˆØ¯Ø²Ø§Ø¯Ù‡ Ù‡Ø³ØªÙ…”Œentities”NŒcaption_entities”NŒaudio”NŒdocument”Nh)NŒsticker”NŒvideo”NŒ
+video_note”NŒvoice”NŒcaption”NŒcontact”Nh4NŒvenue”NŒ	animation”NŒdice”NŒnew_chat_member”NŒnew_chat_members”NŒleft_chat_member”NŒnew_chat_title”NŒnew_chat_photo”NŒdelete_chat_photo”NŒgroup_chat_created”NŒsupergroup_chat_created”NŒchannel_chat_created”NŒmigrate_to_chat_id”NŒmigrate_from_chat_id”Nh-NŒinvoice”NŒsuccessful_payment”NŒconnected_website”NŒreply_markup”NŒjson”}”(Œ
+message_id”MíŒfrom”}”(Œid”JÄ_À	Œis_bot”‰Œ
+first_name”hŒusername”hŒ
+language_code”huŒchat”}”(hcJÄ_À	heh(hfh'Œtype”h%uŒdate”JÛ•MaŒtext”hAuubau}”(Œid”JcVŒmessages”]”(h)”}”(h
+Œtext”hMºh
+Mºhh)”}”(hJcVh‰hŒJavad”hŒjavad_emami”hŒEmami”hŒen”hNhNhNubhJˆåLahh!)”}”(hJcVh$Œprivate”h&NhŒjavad_emami”hŒJavad”hŒEmami”h)Nh*Nh+Nh,Nh-Nh.Nh/Nh0Nh1Nh2Nh3Nh4Nubh5Nh6Nh7Nh8Nh9Nh:Nh;Nh<Nh=Nh>Nh?Nh@NhŒ&Ø¨Ù„Ù‡ Ø±Ø¶Ø§ Ø¬Ø§Ù† Ø¹Ù„ÛŒÚ© Ø³Ù„Ø§Ù…”hBNhCNhDNhENh)NhFNhGNhHNhINhJNhKNh4NhLNhMNhNNhONhPNhQNhRNhSNhTNhUNhVNhWNhXNhYNh-NhZNh[Nh\Nh]Nh^}”(Œ
+message_id”MºŒfrom”}”(Œid”JcVŒis_bot”‰Œ
+first_name”hvŒ	last_name”hxŒusername”hwŒ
+language_code”hyuŒchat”}”(h…JcVh‡h~hˆhh‰h}Œtype”h|uŒdate”JˆåLaŒtext”h€uubh)”}”(h
+Œ	animation”hM¾h
+M¾hh)”}”(hJcVh‰hŒJavad”hŒjavad_emami”hŒEmami”hŒen”hNhNhNubhJåLahh!)”}”(hJcVh$Œprivate”h&NhŒjavad_emami”hŒJavad”hŒEmami”h)Nh*Nh+Nh,Nh-Nh.Nh/Nh0Nh1Nh2Nh3Nh4Nubh5Nh6Nh7Nh8Nh9Nh:Nh;Nh<Nh=Nh>Nh?Nh@NhNhBNhCNhDNhEhŒDocument”“”)”}”(Œfile_id”ŒGCgACAgQAAxkBAAIdvmFM5Y-4JaT-NUmHGD_ivG3etLpkAAIvBwACE4qQUeNn-YhiXuPEIQQ”Œfile_unique_id”ŒAgADLwcAAhOKkFE”Œthumb”hŒ	PhotoSize”“”)”}”(h£ŒNAAMCBAADGQEAAh2-YUzlj7glpP41SYcYP-K8bd60umQAAi8HAAITipBR42f5iGJe48QBAAdtAAMhBA”h¥ŒAQADLwcAAhOKkFFy”Œwidth”M@Œheight”K´Œ	file_size”MAubŒ	file_name”ŒGifybot.mp4”Œ	mime_type”Œ	video/mp4”h°J‚ ubh)NhFNhGNhHNhINhJNhKNh4NhLNhMhŒ	Animation”“”)”}”(h£ŒGCgACAgQAAxkBAAIdvmFM5Y-4JaT-NUmHGD_ivG3etLpkAAIvBwACE4qQUeNn-YhiXuPEIQQ”h¥ŒAgADLwcAAhOKkFE”h®Màh¯MŒduration”Kh§h©)”}”(h£ŒNAAMCBAADGQEAAh2-YUzlj7glpP41SYcYP-K8bd60umQAAi8HAAITipBR42f5iGJe48QBAAdtAAMhBA”h¥ŒAQADLwcAAhOKkFFy”h®M@h¯K´h°MAubh±ŒGifybot.mp4”h³Œ	video/mp4”h°J‚ ubhNNhONhPNhQNhRNhSNhTNhUNhVNhWNhXNhYNh-NhZNh[Nh\Nh]Nh^}”(Œ
+message_id”M¾Œfrom”}”(Œid”JcVŒis_bot”‰Œ
+first_name”h•Œ	last_name”h—Œusername”h–Œ
+language_code”h˜uŒchat”}”(hÆJcVhÈhhÉhžhÊhœŒtype”h›uŒdate”JåLaŒ	animation”}”(Œ	file_name”hÀŒ	mime_type”hÁŒduration”KŒwidth”MàŒheight”MŒthumb”}”(Œfile_id”h¾Œfile_unique_id”h¿Œ	file_size”MAhÕM@hÖK´uhÙh¹hÚhºhÛJ‚ uŒdocument”}”(hÒh²hÓh´h×}”(hÙh¬hÚh­hÛMAhÕM@hÖK´uhÙh¤hÚh¦hÛJ‚ uuubh)”}”(h
+Œtext”hMæh
+Mæhh)”}”(hJcVh‰hŒJavad”hŒjavad_emami”hŒEmami”hŒen”hNhNhNubhJh•Mahh!)”}”(hJcVh$Œprivate”h&NhŒjavad_emami”hŒJavad”hŒEmami”h)Nh*Nh+Nh,Nh-Nh.Nh/Nh0Nh1Nh2Nh3Nh4Nubh5Nh6Nh7Nh8Nh9Nh:Nh;Nh<Nh=Nh>Nh?Nh@NhŒ+Ø³Ù„Ø§Ù… ÙØ±ÛŒÙ†ÙˆØ´ Ø¬ÙˆÛŒÙ†Ø¯Ù‡ Ù‡Ø³ØªÙ…”hBNhCNhDNhENh)NhFNhGNhHNhINhJNhKNh4NhLNhMNhNNhONhPNhQNhRNhSNhTNhUNhVNhWNhXNhYNh-NhZNh[Nh\Nh]Nh^}”(Œ
+message_id”MæŒfrom”}”(Œid”JcVŒis_bot”‰Œ
+first_name”häŒ	last_name”hæŒusername”håŒ
+language_code”hçuŒchat”}”(hóJcVhõhìhöhíh÷hëŒtype”hêuŒdate”Jh•MaŒtext”hîuubeu}”(Œid”JmN…%Œmessages”]”h)”}”(h
+Œtext”hM´h
+M´hh)”}”(hJmN…%h‰hŒReza”hŒ
+Alpacino24”hŒAlvandi”hŒen”hNhNhNubhJåLahh!)”}”(hJmN…%h$Œprivate”h&NhŒ
+Alpacino24”hŒReza”hŒAlvandi”h)Nh*Nh+Nh,Nh-Nh.Nh/Nh0Nh1Nh2Nh3Nh4Nubh5Nh6Nh7Nh8Nh9Nh:Nh;Nh<Nh=Nh>Nh?Nh@NhŒ(Ø³Ù„Ø§Ù… Ù…Ù† Ø±Ø¶Ø§Ù… Ù¾ÛŒØ§Ù… Ø§ÙˆÙ…Ø¯”hBNhCNhDNhENh)NhFNhGNhHNhINhJNhKNh4NhLNhMNhNNhONhPNhQNhRNhSNhTNhUNhVNhWNhXNhYNh-NhZNh[Nh\Nh]Nh^}”(Œ
+message_id”M´Œfrom”}”(Œid”JmN…%Œis_bot”‰Œ
+first_name”j  Œ	last_name”j	  Œusername”j  Œ
+language_code”j
+  uŒchat”}”(j  JmN…%j  j  j  j  j  j  Œtype”j
+  uŒdate”JåLaŒtext”j  uubaue.
